@@ -19,6 +19,9 @@ const Header = () => {
         <div>
           <Link to="/friends">Friends</Link>
         </div>
+        <div>
+          <Link to="/posts">Posts</Link>
+        </div>
       </nav>
       <p>I am common</p>
     </div>
